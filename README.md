@@ -1,0 +1,2 @@
+# Decision-Tree-Visualization-Suite-Mod-lisation-et-valuation-d-Arbres-de-D-cision-
+Projet Python utilisant NetworkX et Matplotlib pour modéliser, visualiser et analyser un arbre de décision séquentiel sous incertitude. L'application génère un graphe clair distinguant les nœuds de décision, de chance et les utilités finales, tout en formalisant les différentes stratégies ($\delta$) et leurs notations ensemblistes.
